@@ -29,10 +29,10 @@ const Navbar = () => {
       >
         <ul className="flex flex-col fixed text-gray-300 w-full h-full items-center justify-center">
           <li className="font-bold text-3xl p-8">Home</li>
-          <li className="font-bold text-3xl p-8">Destinations</li>
-          <li className="font-bold text-3xl p-8">Reservations</li>
-          <li className="font-bold text-3xl p-8">Amenities</li>
-          <li className="font-bold text-3xl p-8">Rooms</li>
+          <li className="font-bold text-3xl p-8">Products</li>
+          <li className="font-bold text-3xl p-8">Menu</li>
+          <li className="font-bold text-3xl p-8">Images</li>
+          <li className="font-bold text-3xl p-8">Contact</li>
         </ul>
       </div>
     </div>

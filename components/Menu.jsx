@@ -16,17 +16,17 @@ const Menu = () => {
       <div className="grid grid-cols-2 col-span-2 gap-2">
         <img
           className="object-cover w-full h-full"
-          src="https://images.unsplash.com/photo-1631799146456-9ee9fde0bd2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+          src="https://resize.cdn.otakumode.com/resize/1600/u/ef699bb2b76f49b6ba4766562c907c4b.jpg.webp"
           alt="gundam"
         />
         <img
           className="row-span-2 object-cover w-full h-full"
-          src="https://images.unsplash.com/photo-1631799146456-9ee9fde0bd2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+          src="https://resize.cdn.otakumode.com/full/u/1641933504084701a6aee40448ac19a6.jpg"
           alt="gundam"
         />
         <img
           className="object-cover w-full h-full"
-          src="https://images.unsplash.com/photo-1631799146456-9ee9fde0bd2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+          src="https://resize.cdn.otakumode.com/full/u/68e33e96ef624bda9fb6b895213772c7.jpg"
           alt="gundam"
         />
       </div>

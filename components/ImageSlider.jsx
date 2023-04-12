@@ -5,16 +5,16 @@ import { RxDotFilled } from "react-icons/rx";
 const ImageSlider = () => {
   const slides = [
     {
-      url: "https://images.unsplash.com/photo-1631799146456-9ee9fde0bd2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-      title: "Gundam1",
-    },
-    {
-      url: "https://images.unsplash.com/photo-1631799146456-9ee9fde0bd2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      url: "https://gundam-factory.net/en/images//tour/img_02.jpg",
       title: "Gundam2",
     },
     {
-      url: "https://images.unsplash.com/photo-1631799146456-9ee9fde0bd2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      url: "https://gundam-factory.net/en/images//tour/img_03.jpg",
       title: "Gundam3",
+    },
+    {
+      url: "https://images.squarespace-cdn.com/content/v1/5856239415d5db5111f74d82/1615086861808-B35KXFDACYHQBCBYJHMG/Screenshot+%2818%29.png?format=1500w",
+      title: "Gundam1",
     },
   ];
 

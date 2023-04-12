@@ -7,27 +7,27 @@ const Products = () => {
       <div className="grid grid-cols-2 grid-rows-6 h-[80vh]">
         <img
           className="row-span-3 object-cover w-full h-full p-2"
-          src="https://images.unsplash.com/photo-1631799146456-9ee9fde0bd2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+          src="https://gundam-factory.net/en/images/products/item_01.jpg"
           alt="gundam"
         />
         <img
           className="row-span-2 object-cover w-full h-full p-2"
-          src="https://images.unsplash.com/photo-1631799146456-9ee9fde0bd2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+          src="https://gundam-factory.net/en/images/products/item_04.jpg"
           alt="gundam"
         />
         <img
           className="row-span-2 object-cover w-full h-full p-2"
-          src="https://images.unsplash.com/photo-1631799146456-9ee9fde0bd2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+          src="https://gundam-factory.net/en/images/products/item_03.jpg"
           alt="gundam"
         />
         <img
           className="row-span-3 object-cover w-full h-full p-2"
-          src="https://images.unsplash.com/photo-1631799146456-9ee9fde0bd2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+          src="https://gundam-factory.net/en/images/products/item_02.jpg"
           alt="gundam"
         />
         <img
           className="row-span-2 object-cover w-full h-full p-2"
-          src="https://images.unsplash.com/photo-1631799146456-9ee9fde0bd2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+          src="https://gundam-factory.net/en/images/products/item_05.jpg"
           alt="gundam"
         />
       </div>
@@ -35,8 +35,8 @@ const Products = () => {
       <div className="flex flex-col h-full justify-center">
         <h3 className="text-5xl md:text-6xl font-bold">Exclusive Products</h3>
         <p className="text-2xl py-6">
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat
-          error modi cum voluptatum.
+          Original and limited edition products which are not available anywhere
+          else.
         </p>
         <p className="pb-6">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis

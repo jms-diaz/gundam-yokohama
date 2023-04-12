@@ -11,17 +11,17 @@ const Hero = () => {
       <div className="bg-black/50 absolute top-0 left-0 w-full h-screen" />
       <div className="absolute top-0 w-full h-full flex flex-col justify-center text-white">
         <div className="md:left-[10%] max-w-[1100px] m-auto absolute p-4">
-          <p>"The Moving Gundam"</p>
+          <p>Unleash Your Imagination</p>
           <h1 className="font-bold text-5xl md:text-7xl drop-shadow-2xl">
             Gundam Factory Yokohama
           </h1>
-          <p className="max-w-[600px] drop-shadow-2xl py-2 text-xl">
-            The magnificent world view held in the story of "Gundam" spurs,
-            inspires, and moves the imagination and passion of many people
-            involved in the project. Dreams become reality, and that reality
-            creates new dreams.
+          <p className="max-w-[600px] drop-shadow-2xl py-4 text-xl">
+            Immerse yourself in the futuristic world of Gundam and witness the
+            awe-inspiring spectacle of a life-sized Gundam robot in action. With
+            a focus on cutting-edge technology and cultural significance, Gundam
+            Factory Yokohama is the ultimate destination for fans of all ages.
           </p>
-          <button className="bg-white text-black font-bold">Buy Tickets</button>
+          <button className="bg-white text-black">Buy Tickets</button>
         </div>
       </div>
     </div>
